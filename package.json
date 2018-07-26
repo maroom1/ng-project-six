@@ -4,11 +4,8 @@
   "description": "Responsive Portifolio project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "echo \"Hello From sass script\""
   },
   "author": "Krish",
-  "license": "ISC",
-  "dependencies": {
-    "node-sass": "^4.9.2"
-  }
+  "license": "ISC"
 }
