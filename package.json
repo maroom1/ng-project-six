@@ -1,0 +1,16 @@
+{
+  "name": "project-six",
+  "version": "1.0.0",
+  "description": "Responsive Portifolio project",
+  "main": "index.js",
+  "homepage": "https://maroom1.github.io/ng-project-six",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Krish",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
